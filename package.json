@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "next dev"
+  },
+  "devDependencies": {
+    "vite": "^7.1.1"
+  },
+  "dependencies": {
+    "next": "^15.4.6"
+  }
+}
